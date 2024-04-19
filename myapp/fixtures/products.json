@@ -1,0 +1,33 @@
+[
+    {
+    "model": "myapp.product",
+    "pk": 1,
+    "fields": {
+    "name": "TV",
+    "price": "1000.00", 
+    "description": "Samsung 75in Smart TV"
+    }
+    },
+   
+    {
+    "model": "myapp.product",
+    "pk": 2,
+    "fields": {
+    "name": "Phone",
+    "price": "500.00",
+    "description": "Iphone XR"
+    }
+    } , 
+
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+        "name": "Laptop",
+        "price": "2500.00",
+        "description": "MacBook Air"
+        }
+        }
+
+    
+    ]
